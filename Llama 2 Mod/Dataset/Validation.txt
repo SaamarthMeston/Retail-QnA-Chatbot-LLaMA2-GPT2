@@ -1,0 +1,297 @@
+[INST] I'd like to order a bulk of your chocolate truffles for an event. Can you give me a quote? [/INST]
+Of course! For large orders, we can offer a discount. Please contact our customer service team with the details of your order and we'll get back to you with a quote.
+
+[INST] Do you have any vegan ice cream flavors? [/INST]
+We do offer several vegan ice cream flavors made with plant-based ingredients! Please check our website for our current selection. If you're interested in a specific flavor, feel free to ask and we'll let you know if it's available.
+
+[INST] Do you have any sugar-free or low-carb options? [/INST]
+We do offer a range of sugar-free and low-carb options, including some of our ice cream flavors. Please check our website for the latest selection or contact us for more information.
+
+[INST] How long does it take to ship to Alaska? [/INST]
+We're proud to serve all states! Shipping times vary depending on the destination, but for Alaska, please allow 3-5 business days for delivery.
+
+[INST] How much does it cost to ship internationally? [/INST]
+Our international shipping rates vary depending on your location. You can find more information on our website or contact us for a quote on your specific order.
+
+[INST] Can I request a custom flavor for my cookie order? [/INST]
+Yes! We love custom flavors! Please contact our customer support team with your idea and we'll work with you to create a unique flavor. There may be an additional fee depending on the complexity of the flavor.
+
+[INST] I'd like to return my chocolate cake because it's not what I expected. [/INST]
+Sorry to hear that you're unhappy with your purchase. We have a 30-day satisfaction guarantee. Please contact us with the order number and reason for return, and we'll guide you through the process.
+
+[INST] Are your ice cream flavors nut-free? [/INST]
+Yes, all our ice cream flavors are manufactured in a nut-free facility to ensure your safety. However, we do use some ingredients that may contain gluten or soy, so please double-check the ingredient list if you have any concerns.
+
+[INST] How many cookies can I order at once? [/INST]
+We love bulk orders! For wholesale pricing on cookies, please contact our sales team to discuss your needs. We'll be happy to help.
+
+[INST] What is the return policy for a defective item? [/INST]
+We take pride in our products, but sometimes mistakes can happen. If an item arrives damaged or defective, please contact us within 7 days and we'll be happy to assist you with a replacement or refund.
+
+[INST] How long does shipping take for bulk orders? [/INST]
+Bulk order shipping times vary depending on the size and destination. We'll typically ship your order within 24-48 hours, but please allow 3-5 business days for delivery within the continental US.
+
+[INST] Do you have any vegan options for chocolate products? [/INST]
+Yes, we offer a range of vegan chocolates made with plant-based milk alternatives. Simply filter our product selection by 'vegan' to find these items.
+
+[INST] Do you offer wholesale pricing for local businesses? [/INST]
+Yes, we offer competitive wholesale pricing for local businesses. Please contact our sales team at [insert email] or call us at [insert phone number] to discuss your needs and get a quote.
+
+[INST] I ordered some ice cream and it arrived melted. What do I do now? [/INST]
+Oh no, that's disappointing! If your ice cream arrives melted, please contact our customer service team within 24 hours of delivery, and we'll work with you to resolve the issue. We may be able to send a replacement or provide a refund.
+
+[INST] Do you ship internationally? [/INST]
+Yes! We ship worldwide, but please note that international shipping rates and delivery times will vary. Contact us for more information on specific countries and pricing.
+
+[INST] How much does it cost to order a bulk quantity of your cookies for an event? [/INST]
+For bulk orders, please contact our events team at [events@email.com](mailto:events@email.com) or call us at 555-1234. We'd be happy to provide you with a custom quote based on your needs.
+
+[INST] I have a nut allergy, are your ice creams safe for me? [/INST]
+We take food allergies very seriously! Our ice cream recipes do not include nuts, but please note that our manufacturing facility is not a dedicated nut-free zone. If you're concerned about cross-contamination, we can provide additional information on our ingredients.
+
+[INST] Are your chocolates suitable for vegetarians and vegans? [/INST]
+Our chocolate products are mostly vegetarian-friendly, but not all vegan due to the presence of dairy or other animal-derived ingredients. However, we do have some vegan-certified options available. Please check the packaging or contact us if you're unsure.
+
+[INST] Can you make a cookie with no nuts or soy? [/INST]
+We understand how important allergen awareness is! Yes, we have a nut-free and soy-free line of cookies. Just let us know at checkout if you need this special consideration.
+
+[INST] What's the shelf life of your chocolates and cookies? [/INST]
+Our chocolates are best consumed within 6 months from the manufacturing date, while our cookies generally last for up to 3 weeks when stored properly in an airtight container.
+
+[INST] Can I get a discount for buying multiple items? [/INST]
+We love rewarding our loyal customers! For bulk purchases of 5 or more items, you can enjoy a 10% discount on your entire order. Just apply the code 'BULK10' at checkout.
+
+[INST] Do you have any sugar-free options? [/INST]
+We do offer some sugar-free options for our chocolates and cookies! Our dark chocolate bars are sweetened with stevia, and our sugar-free cookies use a blend of natural sweeteners. Please note that our sugar-free options may not be suitable for those with severe dietary restrictions.
+
+[INST] What is the shelf life of your chocolates if they are stored properly? [/INST]
+Our chocolates have a shelf life of 6 months from the date of manufacturing. Proper storage in a cool, dry place helps maintain their freshness.
+
+[INST] What's the return policy if I'm not satisfied with my cookie order? [/INST]
+We're confident you'll love our cookies, but if you're not happy, we want to make it right. You can return any unopened or unused products within 30 days for a full refund or exchange.
+
+[INST] What's the return policy if I don't like my cookie order? [/INST]
+We want you to love your treats, so if you're not satisfied, please contact us within 7 days of delivery and we'll work with you on a refund or replacement.
+
+[INST] How do I order a bulk quantity of cookies for an event? [/INST]
+We'd be happy to help! Just contact our team with your order details, including the type and quantity of cookies you need. We'll work out a custom quote and shipment plan for you.
+
+[INST] I ordered a bulk order of your ice cream sandwiches for an event and need them by tomorrow. Is that possible? [/INST]
+We'd love to help! Unfortunately, we can't guarantee same-day shipping for bulk orders, but I can check on our availability and provide you with an estimated delivery date. Can you please give me more details about your order?
+
+[INST] Do you offer vegan options? [/INST]
+We're working hard to expand our plant-based offerings! Currently, we have a few vegan ice cream flavors available. Please check our website or reach out to our customer service team for more information on our vegan options.
+
+[INST] Are your chocolate truffles gluten-free? [/INST]
+Our chocolate truffles do contain gluten, as they're made in a facility that also processes gluten-containing ingredients. However, we do offer gluten-free options for our other products upon request.
+
+[INST] Can I request a custom flavor for my cookie order? [/INST]
+Absolutely! We love experimenting with new flavors. Please provide us with your idea, and we'll do our best to accommodate it (additional fees may apply).
+
+[INST] Do you have any vegan chocolate options? [/INST]
+We do offer some delicious vegan chocolate options, including our dark chocolate bars and cocoa nibs. These products are made with plant-based ingredients and are free from animal-derived products.
+
+[INST] I just ordered your chocolate chip cookies, but the shipping estimate says I won't get them for another week. Can you expedite my order? [/INST]
+I'd be happy to help! We can expedite your order for an additional fee. Please contact our customer service team to arrange the upgrade.
+
+[INST] Do you offer a subscription service for regular ice cream deliveries? [/INST]
+Yes, we do! Our Ice Cream Club offers monthly shipments of your favorite flavors. Please visit our website to learn more and sign up.
+
+[INST] What happens if my chocolate delivery is delayed? [/INST]
+Sorry to hear that! If your delivery is delayed, please contact our customer service team and we'll do our best to get you an updated tracking number or a replacement shipment as soon as possible.
+
+[INST] What is the shelf life of your cookies? [/INST]
+Our cookies have a shelf life of up to 3 months from the date of production. However, we recommend consuming them within 2 weeks for optimal freshness and flavor.
+
+[INST] How do I know if my ice cream is going bad? [/INST]
+Our ice cream has a best-by date printed on the packaging. If you've stored it properly in your freezer and it's past this date, please give us a call to discuss potential replacements or refunds.
+
+[INST] What are the ingredients in your chocolate chip cookies? [/INST]
+Our classic chocolate chip cookies contain semi-sweet chocolate chips, sugar, brown sugar, butter, eggs, flour, baking soda, and vanilla extract. If you have a specific ingredient concern, please let us know.
+
+[INST] I missed the sale deadline for my order - can I still get a discount? [/INST]
+We understand that mistakes happen! If you missed the sale deadline, please contact us and we'll review your request to see if there's anything we can do to accommodate you.
+
+[INST] What if my chocolate order is delayed? [/INST]
+Sorry to hear that! We'll do our best to get your chocolates to you as soon as possible. Please know that delays can happen, but we're working hard to resolve the issue ASAP.
+
+[INST] Can I request a specific flavor for my customized ice cream order? [/INST]
+We love custom orders! Yes, please let us know your preferred flavors and we'll do our best to accommodate them. Keep in mind that some flavors might not be available at the time of your order, but we'll work with you to find an alternative.
+
+[INST] Do your cookies contain any nuts or soy? [/INST]
+We're happy to report that our cookies are nut-free and soy-free! However, please note that they may have been processed in a facility that also handles these ingredients.
+
+[INST] Do you have any sugar-free options for your cookies? [/INST]
+We do! Our sugar-free cookies use natural sweeteners like stevia and monk fruit. Would you like more info on our sugar-free options?
+
+[INST] Can I exchange my cookie order if it's not what I expected? [/INST]
+We're sorry to hear that. If you're not satisfied with your cookies, please contact our customer support team within [time frame] to discuss options for replacement or refund.
+
+[INST] What if my order is missing an item or has incorrect quantities? [/INST]
+We apologize if there's an issue with your order! Please contact our customer service team and we'll work with you to resolve the issue promptly. We'll either correct the mistake or provide a refund as needed.
+
+[INST] Is your cookie dough safe for someone with a peanut allergy? [/INST]
+Yes, our cookie dough is free from peanuts and tree nuts. However, please note that we do have facilities that process peanuts and tree nuts, so there's always a small risk of cross-contamination.
+
+[INST] Can I request a custom flavor for my cookie order? [/INST]
+We love creativity! While we can't accommodate entirely new flavors, we do offer a 'Custom Cookie' option where our team will work with you to create a unique combination of our existing flavors. There's a small upcharge for this service.
+
+[INST] Can I get a discount for buying in bulk? [/INST]
+Yes! For large orders, we offer a discounted rate on our already competitive prices. Can you please share the details of your order and we'll work out the best deal for you?
+
+[INST] Is it possible to get a refund or exchange if I'm not satisfied? [/INST]
+We want you to be thrilled with your purchase! If you're not satisfied, please contact us within 7 days and we'll work with you to find a solution that fits your needs.
+
+[INST] Do you have any gluten-free cookie options? [/INST]
+We do have a special gluten-free line of cookies, though they are baked in a shared facility. If you're highly sensitive or have severe allergies, please contact us before ordering.
+
+[INST] Are your cookies nut-free? [/INST]
+While we take precautions to avoid cross-contamination, our facility does process nuts. If you have a severe allergy, please contact us before ordering so we can discuss options.
+
+[INST] What is your return policy on defective chocolates? [/INST]
+We're committed to customer satisfaction! If you receive a defective chocolate, please contact us and we'll be happy to assist with a replacement or refund.
+
+[INST] How long does shipping take? [/INST]
+Shipping times vary depending on your location. Standard shipping takes around 3-5 business days, while expedited options are also available for an additional fee.
+
+[INST] Do you offer any vegan or gluten-free options? [/INST]
+Yes! Our vegan chocolate bars are made with plant-based milk alternatives, while our gluten-free cookies are baked in separate facilities to ensure safety. Ask us about our current offerings!
+
+[INST] Are your ice cream flavors gluten-free? [/INST]
+All our ice cream flavors are naturally gluten-free, as they don't contain any wheat-based ingredients. However, please note that some of our mix-ins might contain gluten. Always check the ingredient list or contact us if you have specific concerns.
+
+[INST] What ingredients are in your chocolate chip cookie dough ice cream? [/INST]
+Our chocolate chip cookie dough ice cream is made with real butter, eggs, sugar, cream, vanilla extract, semi-sweet chocolate chips, and a hint of sea salt. No artificial flavors or preservatives!
+
+[INST] Why was my shipment delayed by a week? [/INST]
+We apologize for the inconvenience. Please contact our customer service team and we'll investigate the cause of the delay and get your order to you as soon as possible.
+
+[INST] Are your chocolates suitable for someone with tree nut allergies? [/INST]
+Our chocolate products do not contain tree nuts, but we do process peanuts on site. If you have a severe peanut allergy, please consult our ingredient list or contact us before purchasing.
+
+[INST] What if my package is delayed or lost during shipping? [/INST]
+We're committed to getting your treats to you on time! If there's an issue with delivery, please contact us and we'll work with our shipping partners to resolve the problem and get a replacement order to you ASAP.
+
+[INST] What is the estimated shipping time for my chocolate order? [/INST]
+Our standard shipping takes 3-5 business days within the continental US. However, due to unforeseen circumstances, there might be delays. We'll keep you updated via email if any changes occur.
+
+[INST] Do you have any peanut-free options for kids with allergies? [/INST]
+Yes, we offer a variety of peanut-free treats! Please check out our dedicated allergy-friendly section on our website for more information.
+
+[INST] What if my chocolate order is delayed due to shipping issues? [/INST]
+In the unlikely event of a shipping delay, we'll keep you updated and work with you to resolve any issues as quickly as possible. If your order arrives later than expected, please know that we're committed to making it right.
+
+[INST] I'm having trouble tracking my order. How can I get an update on my shipment? [/INST]
+Sorry to hear that! Please contact our customer service team with your order number, and we'll be happy to look into the issue and provide an updated shipping status.
+
+[INST] I received my ice cream too late because it was delayed in shipping. What do I do now? [/INST]
+Sorry to hear that! We're looking into the issue. Please contact our customer service team with your order number and tracking information, and we'll work on resolving the situation.
+
+[INST] Do you use any artificial ingredients in your chocolates? [/INST]
+No, we don't! Our chocolates are made with only the finest natural ingredients and no artificial additives. You can enjoy them knowing they're good for you and the environment.
+
+[INST] Can I return a cookie gift set if the recipient doesn't like it? [/INST]
+We're happy to help with returns or exchanges. Just contact our customer service team within 14 days of delivery and we'll guide you through the process.
+
+[INST] Do you offer gift wrapping for your chocolates? [/INST]
+Yes, we do! Our gift wrapping service is available for a small fee. You can choose from various wrapping options, including personalized notes and ribbons.
+
+[INST] Are your chocolates suitable for vegans? [/INST]
+We have a range of vegan-friendly chocolate options made with plant-based milk and other vegan ingredients. Just ask about them when you order!
+
+[INST] What's in your ice cream? Are there any nuts or soy? [/INST]
+Our ice cream ingredients are clearly listed on our website. For specific allergen information, please visit our FAQ page or contact us directly.
+
+[INST] Are there any animal products in your ingredients? [/INST]
+Yes, some of our chocolate and ice cream products contain dairy, eggs, and honey. However, we do offer vegan-friendly options for those who require it. Just ask!
+
+[INST] Do you have any sugar-free or low-carb options available? [/INST]
+We offer some sugar-free and low-carb options, like our sugar-free chocolate bars and low-carb cookie packs. Just ask us about them!
+
+[INST] What's the estimated delivery time for my chocolate gift box? [/INST]
+Our standard shipping takes around 3-5 business days, but please note that during peak seasons or special promotions, delivery times may be delayed. We'll keep you updated with tracking info!
+
+[INST] What's your policy on refunds? [/INST]
+We're happy to accept returns or exchanges within 30 days of delivery. Please contact our customer support team for a return merchandise authorization number (RMA) and follow the instructions provided.
+
+[INST] Do you have any peanut-free ice cream flavors? [/INST]
+We're happy to say that all of our ice cream flavors are free from peanuts! However, if you have a severe nut allergy, please double-check the ingredients on our website before consuming.
+
+[INST] Are there any peanut-free options in your cookies? [/INST]
+We understand the importance of peanut-free treats! All our cookie flavors are made without peanuts, but please note that our facility also processes tree nuts. If you have a severe nut allergy, please contact us to discuss further.
+
+[INST] Do you have a refund policy for defective products? [/INST]
+We want our customers to be completely satisfied! If you receive a defective product, please contact us within 30 days of receipt and we'll happily provide a full or partial refund.
+
+[INST] Are your chocolates suitable for vegans? [/INST]
+We do offer some vegan chocolate options made with plant-based milk. However, our standard chocolate recipes contain dairy and other animal-derived ingredients. Please check the product description for specific ingredient information.
+
+[INST] Do you offer any vegan options in your product line? [/INST]
+Yes, we have a selection of vegan-friendly chocolates and cookies. Please check our website or consult with our customer support team for specific products that meet your dietary requirements.
+
+[INST] What if I'm allergic to dairy and want to try some of your ice creams? [/INST]
+We have several non-dairy options available, including our coconut milk-based 'Mango Madness' and 'Peanut Butter Cup' flavors. Please note that while these are dairy-free, they may contain other allergens like tree nuts or soy.
+
+[INST] Are your ice creams vegan? [/INST]
+We offer a range of vegan-friendly ice cream flavors made with coconut milk, almond milk, or cashew milk. Check our website for the specific ingredients used in each flavor.
+
+[INST] What if my order is delayed or lost during shipping? [/INST]
+Don't worry! We've got your back. If there's an issue with your order, we'll work with you to resolve it. Contact our customer support and we'll take care of the rest.
+
+[INST] Are your products vegan-friendly? [/INST]
+Most of our products are vegan-friendly, but please check individual ingredients or contact us if you have specific dietary concerns. We're happy to help with recommendations!
+
+[INST] Do you offer expedited shipping options for special occasions? [/INST]
+Yes, we understand the importance of timely delivery! For an additional fee, we can arrange expedited shipping to ensure your treats arrive on time.
+
+[INST] What is your refund policy if my order arrives damaged? [/INST]
+If your order arrives in poor condition, please take photos and send them to us within 7 days. We'll issue a full or partial refund depending on the situation.
+
+[INST] Do you have any vegan options? [/INST]
+We're proud to offer several vegan-friendly options! Our chocolate bars are made with plant-based milk alternatives and our cookie flavors are clearly labeled as vegan. If you have specific dietary needs, please let us know and we'll be happy to help.
+
+[INST] How long does it take to receive my bulk order? [/INST]
+Bulk orders typically ship within 3-5 business days, but please allow up to 7-10 business days for delivery. You'll receive an email with tracking information once your order is processed.
+
+[INST] Can I return or exchange an item that didn't meet my expectations? [/INST]
+We want you to be completely satisfied! If you're not happy, please contact us and we'll work with you to resolve the issue or provide a refund or replacement, whichever is best.
+
+[INST] Are there any allergens in your ice cream products? [/INST]
+Our ice creams are made with common allergenic ingredients like milk, soy, and tree nuts. If you have specific concerns, please review our ingredient list on our website or contact us for more information.
+
+[INST] Do you offer any gift wrapping options? [/INST]
+Yes! We can beautifully wrap your order with our custom-designed packaging for a small additional fee. Please let us know if you'd like to add gift wrapping during the checkout process or when placing your order over the phone.
+
+[INST] Can I get a bulk order discount for my event? [/INST]
+We'd be happy to help! For bulk orders, please contact our customer support team with the details of your event and we'll provide a custom quote.
+
+[INST] Can I cancel my order if it's not shipped yet? [/INST]
+Yes, you can! If your order hasn't shipped yet, please contact us as soon as possible. We'll work with you to resolve the issue and potentially provide a full or partial refund.
+
+[INST] Do you offer any gluten-free or vegan cookie options? [/INST]
+We do have some delicious gluten-free cookie options, though they are baked in a shared facility! As for vegan options, we're working on developing more products without animal-derived ingredients. For now, our vegan ice cream flavors are a great choice.
+
+[INST] Do you offer a satisfaction guarantee for your products? [/INST]
+Absolutely! If you're not completely satisfied with our treats, we'll work with you to make it right. Our promise is that every bite will be delicious and meet your expectations.
+
+[INST] What's the best way to get my chocolate gift basket if I live outside of the US? [/INST]
+We partner with international shipping providers. Please visit our website and select your country for estimated delivery times and costs.
+
+[INST] What are the ingredients in your ice cream flavors? [/INST]
+All of our ice cream flavors contain milk, cream, sugar, and natural flavorings. Some flavors may also include additional ingredients like nuts or candy pieces. Please check individual product labels for specific ingredient lists.
+
+[INST] What ingredients do you use in your chocolate chip cookies? [/INST]
+Our chocolate chip cookies contain semi-sweet chocolate chips, granulated sugar, brown sugar, butter, eggs, vanilla extract, baking soda, salt, and all-purpose flour. We're proud to use only the finest ingredients for our baked goods.
+
+[INST] What's the expected delivery time for my chocolate order? [/INST]
+Our standard shipping takes around 3-5 business days within the continental US, but please note that delays can occur due to weather or high volumes. You'll receive tracking updates and we're always happy to help with any issues!
+
+[INST] Can I get a custom flavor of cookie? [/INST]
+While we don't offer custom flavors as standard options, we do have a 'Cookie Creation' service where you can design your own flavor with our team. Contact us for details!
+
+[INST] What's the policy on refunds for ice cream that melted during shipping? [/INST]
+We're sorry to hear your ice cream didn't arrive in perfect condition! If it was damaged due to shipping, we'll be happy to replace it or provide a refund. Please contact our customer support team with photos and order details.
+
+[INST] How do I track my order once it ships? [/INST]
+Once your order ships, you'll receive an email with tracking information. You can use this to monitor the status of your package and stay updated on its expected delivery date.
+
