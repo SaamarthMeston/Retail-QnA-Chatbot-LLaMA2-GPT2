@@ -102,7 +102,3 @@ Can be converted to Streamlit, Gradio, or web chat UI
 - The creators are not responsible for any misinterpretation or misuse of the chatbot’s responses in real-world applications.
 
 ---
-
-### 📬 Contact
-For fine-tuning services, model export help, or chatbot deployment:
-Maintained by Umerulla Belavadi (umerullab@gmail.com)
