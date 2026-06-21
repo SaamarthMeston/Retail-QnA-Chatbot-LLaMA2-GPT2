@@ -59,5 +59,3 @@ Instructions for setup are included in the `LLaMA2_Model/README.md`.
 ---
 
 
-## 🙋‍♂️ Maintainer  
-Umerulla Belavadi – [umerullab@gmail.com]
