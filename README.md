@@ -1,4 +1,4 @@
-# Chocolate Retail QnA Chatbot – LLaMA2-7B & GPT-2
+# Chocolate Retail QnA Chatbot – LLaMA2-7B
 
 This repository contains two domain-specific chatbots for a premium chocolate retail business — built using **Meta’s LLaMA2-7B (via QLoRA)** and **OpenAI’s GPT-2** models.
 
@@ -26,13 +26,13 @@ Retail-QnA-Chatbot-LLaMA2-GPT2/
 
 ## ⚖️ Model Comparison Summary
 
-| Metric                | GPT-2             | LLaMA2-7B (QLoRA)       |
-|-----------------------|-------------------|--------------------------|
-| Validation Loss       | 0.1686            | 0.1156                   |
-| Perplexity            | 1.18              | 1.12                     |
-| Accuracy (Exact Match)| 96.00%            | 100.00%                  |
-| Output Quality        | Basic, generic    | Highly contextualized    |
-| Recommended For Use   | ❌ No             | ✅ Yes                   |
+| Metric                || LLaMA2-7B (QLoRA)       |
+|-----------------------|--------------------------|
+| Validation Loss       | 0.1156                   |
+| Perplexity            | 1.12                     |
+| Accuracy (Exact Match)| 100.00%                  |
+| Output Quality        | Highly contextualized    |
+| Recommended For Use   | ✅ Yes                   |
 
 > 🔍 GPT-2 is included for comparison purposes only.  
 👉 **Please use the `LLaMA2_Model` folder for best results.**
